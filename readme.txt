@@ -5,5 +5,5 @@ Git tracks c
 hanges of files..
 Git again!!
 Creating a new branch is quick and simple.
-add a merge,what.
-
+add merge.
+a dig bug.
